@@ -50,6 +50,7 @@ Evaluation:
    
  - R²: 0.741
    
-🔐 Notes
+🔐 Notes:
+
 Ensure the dataset has columns: title, description, tags, like_count, comment_count, published_at, view_count.
 
