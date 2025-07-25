@@ -42,10 +42,11 @@ This machine learning project predicts the number of views a YouTube video might
 📝 Model Evaluation Output Example
 
 Evaluation:
- MSE: 845691801.24
- RMSE: 29079.89
- MAE: 17341.67
- R²: 0.741
+ - MSE: 845691801.24
+ - RMSE: 29079.89
+ - MAE: 17341.67
+ - R²: 0.741
+ - 
 🔐 Notes
 Ensure the dataset has columns: title, description, tags, like_count, comment_count, published_at, view_count.
 
